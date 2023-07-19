@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer and data expert
 -----------------------------
 
-🚀 Welcome to my GitHub galaxy! 🌌 I'm your friendly neighbourhood data enthusiast turned web developer!
+🚀 Welcome to my GitHub galaxy! 🌌 I'm your friendly neighbourhood data enthusiast turned web developer! <br/>
 🎉 As you roam through my GitHub galaxy, you'll find a celestial collection of projects showcasing my data mastery and my web development prowess 🌠
 
 * 🌍  I'm based in Paris, France
