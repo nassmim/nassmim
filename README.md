@@ -7,7 +7,7 @@ Web developer and data expert
 🚀 Welcome to my GitHub galaxy! 🌌 I'm your friendly neighbourhood data enthusiast turned web developer! <br/>
 🎉 As you roam through my GitHub galaxy, you'll find a celestial collection of projects showcasing my data mastery and my web development prowess 🌠
 
-* 🌍  I'm based in Casablanca, Morocco
+* 🌍  I'm based in Paris, France
 * ✉️  You can contact me at [nassim.ezzakraoui@gmail.com](mailto:nassim.ezzakraoui@gmail.com)
 * 🤝  I'm open to collaborating on challenging projects within ambitious and dynamic companies, from web development to data-related works.
 
